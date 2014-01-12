@@ -1,0 +1,11 @@
+body {
+  font-family: courier;
+  background-color: smokewhite;
+  color: #aaa; }
+
+footer {
+  border-top: 1px solid white; }
+  
+#display {
+  max-height:500px;
+  }

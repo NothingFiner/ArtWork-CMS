@@ -1,0 +1,1 @@
+<a href="post.form.php"><button class="btn btn-large">New Post</button></a>
